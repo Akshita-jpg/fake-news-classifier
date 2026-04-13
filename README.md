@@ -1,4 +1,6 @@
 # 📰 Fake News Detection using Deep Learning
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Deep Learning](https://img.shields.io/badge/Model-LSTM-green)
 
 This project builds a Fake News Classifier using NLP and a Bi-directional LSTM model.
 
